@@ -25,7 +25,7 @@ export default function Home() {
 
 const Enterprises = async () => {
     await axios.get('http://localhost:3001/enterprises').then((response) => {
-        setEnterprises(response.data)
+        setEnterprises(response.data.enterprises)
 });
 }
 
