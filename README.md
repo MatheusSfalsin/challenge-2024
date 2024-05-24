@@ -60,6 +60,7 @@ Para consulta do CEP poderá utilizar API pública [ViaCEP](https://viacep.com.b
 - [ ] Responsivo
 - [ ] Alterar integração para a API REST
 - [ ] Subir no github
+- [ ] Fazer deploy (Vercel por exemplo)
 
 ## Requisitos da aplicação NodeJS
 - [ ] API REST funcional
